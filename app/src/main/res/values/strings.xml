@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Que cocino hoy?</string>
+
+    <string name="new_food">NUEVA COMIDA</string>
+    <string name="connect_to_internet">Conéctate a internet</string>
+
+    <string name="ingredients_title">**Ingredientes**</string>
+    <string name="instructions_title">**Procedimiento**</string>
+    <string name="recipe">RECETA</string>
+    <string name="what_will_eat">Que cocinarás hoy?</string>
+    <string name="start">Comenzar</string>
+    <string name="search_recipes">Buscar recetas...</string>
+    <string name="recipes">Recetas</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1014515796492",
+    "project_id": "quecocinohoy-d6c9a",
+    "storage_bucket": "quecocinohoy-d6c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014515796492:android:b373bec799e08f988dbc29",
+        "android_client_info": {
+          "package_name": "com.app.quecocinohoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014515796492-k8s8obqv6t13i0pft9jmhsn4v6sebh96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.quecocinohoy",
+            "certificate_hash": "964305fd258b1f922a84c553bed3a3ad8e7668fa"
+          }
+        },
+        {
+          "client_id": "1014515796492-nu94mlkftos5rs69hati5g2flf1v5e4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrZFD6Ek9gCP3TlFkk0cBm9_NRt6jKmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014515796492-nu94mlkftos5rs69hati5g2flf1v5e4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
